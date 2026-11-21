@@ -3,7 +3,7 @@
   "name": "browser-game-live-ops-api",
   "display_name": "Browser Game LiveOps API",
   "description": "Versioned authenticated live-ops catalog API.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\LiveOpsApi\\LiveOpsApiServiceProvider",
   "requires": {
